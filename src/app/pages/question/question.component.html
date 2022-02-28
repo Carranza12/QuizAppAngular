@@ -1,0 +1,23 @@
+<div class="container">
+    <div *ngIf="currentIndex<quiz.length">
+        <h3 class="text-center">{{currentIndex+1}} de {{quiz.length}}</h3>
+        <div>
+            <h1 >{{quiz[randomize].question}}</h1>
+            <ul class="list-group"  *ngFor="let options of quiz[randomize].answer">
+                <li class="list-group-item" appBackgroundAnswer [correctAnswer]="options.correct">
+                <input class="form-check-input me-1" type="radio" (change)="onAnswer(options.correct)" [disabled]="clickedAnswer">
+                {{options.option}}
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div *ngIf="currentIndex == quiz.length">
+        <div class="d-grid  col-6 mx-auto mt-2">
+            <button class="btn btn-success" (click)="showResult()" *ngIf="!result">ver resultados </button>
+            <p class="fs-5 text-center" *ngIf="result">Aciertos: {{correctAnswer}} | Errores: {{incorrectAnswer}}</p>
+        </div>
+    </div>
+    
+</div>
