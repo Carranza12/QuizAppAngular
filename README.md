@@ -14,6 +14,9 @@ These instructions will allow you to get a working copy of the project on your l
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Prerequisites 
+- Tener instalado node js 
+- Tener instalado angular CLI
+- Tener instalado Git
 ```
 Da un ejemplo
 ```
