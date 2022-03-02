@@ -16,6 +16,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 <br/>
 Ejecuta los siguientes comandos para clonar el proyecto e implementarlo en tu entorno local
 
+## Instrucciones
 ```
 git clone https://github.com/Carranza12/QuizAppAngular.git
 npm install
