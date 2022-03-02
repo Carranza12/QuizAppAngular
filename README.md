@@ -26,7 +26,8 @@ ng serve
 
 clonas el repositorio, instalas todas las depencias de angular y finalmente ejecutas el servidor que mostrara la app.
 
-## Quiz App
+## Vista previa del proyecto en PC Desktop
+![Vista de escritorio 1 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc1.PNG)
 
 
 
