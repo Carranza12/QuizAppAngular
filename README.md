@@ -31,11 +31,12 @@ clonas el repositorio, instalas todas las depencias de angular y finalmente ejec
 ![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc3.PNG)
 ![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc4.PNG)
 
-## Vista previa del proyecto en Movil
-![Vista de escritorio 1 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil1.PNG)<br/>
-![Vista de escritorio 2 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil2.PNG)<br/>
-![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil3.PNG)<br/>
-![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil4.PNG)
+## Vista previa del proyecto en Movil 
+
+<center>![Vista de escritorio 1 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil1.PNG)</center><br/>
+<center>![Vista de escritorio 2 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil2.PNG)</center> <br/>
+<center>![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil3.PNG)</center> <br/>
+<center>![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil4.PNG)</center> 
 
 ##Prueba la demo!
 
