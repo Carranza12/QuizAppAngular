@@ -28,6 +28,9 @@ clonas el repositorio, instalas todas las depencias de angular y finalmente ejec
 
 ## Vista previa del proyecto en PC Desktop
 ![Vista de escritorio 1 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc1.PNG)
+![Vista de escritorio 2 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc2.PNG)
+![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc3.PNG)
+![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc4.PNG)
 
 
 
