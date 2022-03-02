@@ -32,5 +32,12 @@ clonas el repositorio, instalas todas las depencias de angular y finalmente ejec
 ![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc3.PNG)
 ![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/pc4.PNG)
 
+## Vista previa del proyecto en Movil
+![Vista de escritorio 1 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil1.PNG)
+![Vista de escritorio 2 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil2.PNG)
+![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil3.PNG)
+![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil4.PNG)
 
+##Prueba la demo!
 
+Accede al siguiente Link:
