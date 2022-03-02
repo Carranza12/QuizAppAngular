@@ -15,11 +15,15 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 - Tener instalado Git
 <br/>
 Ejecuta los siguientes comandos para clonar el proyecto i implementarlo en tu entorno local
+
 ```
+
 git clone https://github.com/Carranza12/QuizAppAngular.git
 npm install
 ng serve
+
 ```
+
 
 clonas el repositorio, instalas todas las depencias de angular y finalmente ejecutas el servidor que mostrara la app.
 
