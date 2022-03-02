@@ -1,8 +1,14 @@
-# QuizAppAngular
+# Quiz App with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Hola, esta aplicacion web basica ha sido creada con angular, consiste en responder algunas preguntas sobre cultura general y al final te dara los resultados de la evaluacio, esta solo es una fase inicial de la aplicacio, creada con fines de aprendizaje, puedes descargar este proyecto e implementarlo si lo necesitas, aqui tenes todas las vistas del proyecto y el tutorial de los pasos a seguir para poder instalarla en un entorno local para que la uses tu mismo.
+<br/>
+Hello, this basic web application has been created with angular, it consists of answering some questions about general knowledge and at the end it will give you the results of the evaluation, this is only an initial phase of the application, created for learning purposes, you can download this project and implement it if you need it, here you have all the views of the project and the tutorial of the steps to follow to be able to install it in a local environment so that you can use it yourself.
 
-## Development server
+## starting 🚀
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+<br/>
+These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
