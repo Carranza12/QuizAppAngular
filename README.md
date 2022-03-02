@@ -8,33 +8,22 @@ Hello, this basic web application has been created with angular, it consists of 
 ## starting 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 <br/>
-These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Prerequisites 
+## Prerequisitos
 - Tener instalado node js 
 - Tener instalado angular CLI
 - Tener instalado Git
+<br/>
+Ejecuta los siguientes comandos para clonar el proyecto i implementarlo en tu entorno local
 ```
-Da un ejemplo
+git clone https://github.com/Carranza12/QuizAppAngular.git
+npm install
+ng serve
 ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+clonas el repositorio, instalas todas las depencias de angular y finalmente ejecutas el servidor que mostrara la app.
 
-## Build
+## Quiz App
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
