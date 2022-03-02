@@ -38,6 +38,6 @@ clonas el repositorio, instalas todas las depencias de angular y finalmente ejec
 ![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil3.PNG) <br/>
 ![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil4.PNG)
 
-##Prueba la demo!
+## Prueba la demo!
 
 Accede al siguiente Link: https://quiz-app-angular-carranza12.vercel.app/
